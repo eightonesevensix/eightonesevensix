@@ -2,9 +2,13 @@
 
 ```csharp
 github.com/eightonesevensix
+
 dc   $  @c.ried
+
 srv  $  discord.gg/worship
+
 web  $  fbi.lat
+
 ```
 &zwnj; 
 &zwnj; 

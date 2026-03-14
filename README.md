@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&lines=hi+%7C+i am raydon)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&lines=hi+%7C+iamraydon)](https://git.io/typing-svg)
 
 ```csharp
 github.com/eightonesevensix

@@ -3,7 +3,7 @@
 ```csharp
 github.com/eightonesevensix
 
-dc   $  @c.ried
+dc   $  @73130
 
 srv  $  discord.gg/worship
 

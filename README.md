@@ -5,8 +5,6 @@ github.com/eightonesevensix
 
 dc   $  @73130
 
-srv  $  discord.gg/worship
-
 web  $  fbi.lat
 
 ```

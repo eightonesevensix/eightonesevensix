@@ -3,12 +3,7 @@
 ```csharp
 github.com/eightonesevensix
 
-dc   $  @88355
-
-web  $  fbi.lat
-
 ```
 &zwnj; 
 &zwnj; 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/359921943492820992)](https://discord.com/users/359921943492820992)
